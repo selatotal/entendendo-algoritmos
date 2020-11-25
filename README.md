@@ -23,6 +23,4 @@ cargo run
 
 * Pesquisa Binária - [C](01.pesquisa_binaria/c), [Rust](01.pesquisa_binaria/rust/pesquisabinaria)
 * Ordenação Por Seleção - [C](02.ordenacao_selecao/c), [Rust](02.ordenacao_selecao/rust/ordenacao_selecao)
-* Recursão 
-    - [C](03.recursao/c), [Rust](03.recursao/rust/recursao)
-    * Tempo de Execução: O()
+* Recursão - [C](03.recursao/c), [Rust](03.recursao/rust)
