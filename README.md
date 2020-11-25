@@ -21,5 +21,6 @@ cargo run
 
 # Algoritmos 
 
-* Pesquisa Binária - [C](01.pesquisa_binaria/c), [Rust](01.pesquisa_binaria/rust)
+* Pesquisa Binária - [C](01.pesquisa_binaria/c), [Rust](01.pesquisa_binaria/rust/pesquisabinaria)
+    * Tempo de Execução: O(log n)
 
