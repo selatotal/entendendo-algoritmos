@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define NUM_ITEMS 100
+#define NUM_ITEMS 10
 
 int binary_search(int list[], int item){
     int low = 0;
@@ -23,7 +23,7 @@ int binary_search(int list[], int item){
 
 int main(){
 
-    int list[10] = { 1, 3, 4, 6, 9, 20, 24, 50, 54, 80 };
+    int list[NUM_ITEMS] = { 1, 3, 4, 6, 9, 20, 24, 50, 54, 80 };
     printf("Position: %d\n", binary_search(list, 3));
     printf("Position: %d\n", binary_search(list, 21));
     return 0;

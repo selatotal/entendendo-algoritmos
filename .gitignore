@@ -69,4 +69,5 @@ Cargo.lock
 *.code-workspace
 
 # Binaries
-pesquisabinaria$
+pesquisabinaria
+ordenacao_selecao
