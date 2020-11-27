@@ -16,7 +16,7 @@ typedef struct graph_t {
 
 void add_to_list(graph_t *graph, char *key, char *name){
     graph_t *entry;
-    HASH_FIND_STR(graph, name, entry);
+    HASH_FIND_STR(graph, key, entry);
     if (!entry){
         entry = (graph_t *)malloc(sizeof *entry);
         entry->list_head = NULL;
