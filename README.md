@@ -26,3 +26,4 @@ cargo run
 * Recursão - [C](03.recursao/c), [Rust](03.recursao/rust)
 * Quicksort - [C](04.quicksort/c), [Rust](04.quicksort/rust)
 * Tabelas Hash - [C](05.hash/c), [Rust](05.hash/rust)
+* Pesquisa em Largura - [C](06.pesquisa_largura/c), [Rust](06.pesquisa_largura/rust)
